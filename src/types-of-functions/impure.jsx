@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react"; 
  
-export default function App() { 
+export default function ImpureFunction() { 
   const [btcData, setBtcData] = useState({}); 
   
   const fetchData = ( ) => {
