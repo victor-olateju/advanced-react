@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Full Course",
+    "description": "Here is a full course meal",
+    "price": 5
+  },
+  {
+    "id": 2,
+    "title": "Appetizer",
+    "description": "A small dish served before the main course",
+    "price": 3
+  },
+  {
+    "id": 3,
+    "title": "Dessert",
+    "description": "A sweet course served at the end of a meal",
+    "price": 4
+  },
+  {
+    "id": 4,
+    "title": "Beverage",
+    "description": "A drink, especially one other than water",
+    "price": 2
+  },
+  {
+    "id": 5,
+    "title": "Salad",
+    "description": "A cold dish of various mixtures of raw or cooked vegetables",
+    "price": 3
+  }
+]
