@@ -1,0 +1,6104 @@
+[
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.1",
+    "area_of_practice": "Accountancy/Accounts",
+    "area_of_practice_relativity_factor": 0.15
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.2",
+    "area_of_practice": "Accounts Preparation/Bookkeeping (Insolvency)",
+    "area_of_practice_relativity_factor": 0.15
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.3",
+    "area_of_practice": "Actuarial work",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.4",
+    "area_of_practice": "Audit-Financial Institutions (Insolvency)",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.5",
+    "area_of_practice": "Audit Quoted co",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.6",
+    "area_of_practice": "Audit Small traders",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.7",
+    "area_of_practice": "Audit Super Funds (Insolvency)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.8",
+    "area_of_practice": "Audit Unquoted co",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.9",
+    "area_of_practice": "Audit-Not for Profit Co (Insolvency)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.10",
+    "area_of_practice": "Audit-Private Co (Insolvency)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.11",
+    "area_of_practice": "Audit-Public Listed (Insolvency)",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.12",
+    "area_of_practice": "Audit-Public Non Listed (Insolvency)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.13",
+    "area_of_practice": "Basic Activity",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.14",
+    "area_of_practice": "Bookkeeping",
+    "area_of_practice_relativity_factor": 0.15
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.15",
+    "area_of_practice": "Business Turnaround/ Reconstruction Advisory (Insolvency)",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.16",
+    "area_of_practice": "Business Valuations (Insolvency)",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.17",
+    "area_of_practice": "Consultancy",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.18",
+    "area_of_practice": "Combined",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.19",
+    "area_of_practice": "Company Directorships/ Secretarial Positions (Insolvency)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.20",
+    "area_of_practice": "Company Registrar Work",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.21",
+    "area_of_practice": "Corporate Advisory (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.22",
+    "area_of_practice": "Corporate Finance",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.23",
+    "area_of_practice": "Directorships",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.24",
+    "area_of_practice": "Disposals & Take Over",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.25",
+    "area_of_practice": "Executorship (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.26",
+    "area_of_practice": "Expert Witness Work",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.27",
+    "area_of_practice": "FCA regulated activity",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.28",
+    "area_of_practice": "Financial Planning (Insolvency)",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.29",
+    "area_of_practice": "Forensic Accounting",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.30",
+    "area_of_practice": "Forensic Accounting (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.31",
+    "area_of_practice": "Insolvency-Bankruptcy (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.32",
+    "area_of_practice": "Insolvency-Controller (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.33",
+    "area_of_practice": "Insolvency-Liquidations (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.34",
+    "area_of_practice": "Insolvency-Receivership (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.35",
+    "area_of_practice": "Insolvency-VAs (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.36",
+    "area_of_practice": "Insurance commissions",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.37",
+    "area_of_practice": "Investment Advice & Other Financial Services work",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.38",
+    "area_of_practice": "IT Consultancy",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.39",
+    "area_of_practice": "IVAs (Individual Voluntary Arrangements)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.40",
+    "area_of_practice": "M&A",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.41",
+    "area_of_practice": "M&As (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.42",
+    "area_of_practice": "Management Consultants",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.43",
+    "area_of_practice": "Mergers and Acquisitions, Corporate finance",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.44",
+    "area_of_practice": "MGMT Consultancy/Accounting (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.45",
+    "area_of_practice": "Mortgage Broking (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.46",
+    "area_of_practice": "Payroll",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.47",
+    "area_of_practice": "Pensions, Endowments",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.48",
+    "area_of_practice": "Secretarial services",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.49",
+    "area_of_practice": "Superannuation & Fund MGMT (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.50",
+    "area_of_practice": "Taxation-Corporate",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.51",
+    "area_of_practice": "Taxation (Insolvency)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.52",
+    "area_of_practice": "Taxation Consultancy",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.53",
+    "area_of_practice": "Taxation-Personal",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.54",
+    "area_of_practice": "Trustee/Directorships/Executorships",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.1",
+    "area_of_practice": "Aborted work",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.2",
+    "area_of_practice": "Acoustic Engineer",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.3",
+    "area_of_practice": "Arbitration",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.4",
+    "area_of_practice": "Architectural - Commercial",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.5",
+    "area_of_practice": "Architectural - Residential",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.6",
+    "area_of_practice": "Bridges/Tunnels/Dams/Mines",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.7",
+    "area_of_practice": "Building Certification",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.8",
+    "area_of_practice": "Building Surveys",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.9",
+    "area_of_practice": "CAD Design",
+    "area_of_practice_relativity_factor": 0.38
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.10",
+    "area_of_practice": "CDM Co-ordinator",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.11",
+    "area_of_practice": "Chemical/Nuclear",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.12",
+    "area_of_practice": "Civil Engineering",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.13",
+    "area_of_practice": "Cladding",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.14",
+    "area_of_practice": "Clerk of works",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.15",
+    "area_of_practice": "Drafting/Detailing",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.16",
+    "area_of_practice": "Electrical Engineering",
+    "area_of_practice_relativity_factor": 0.38
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.17",
+    "area_of_practice": "Expert witness",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.18",
+    "area_of_practice": "Feasibility",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.19",
+    "area_of_practice": "Fees paid to subbies",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.20",
+    "area_of_practice": "Forensic Engineering",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.21",
+    "area_of_practice": "Foundation/Underpinning/Piling/Cladding",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.22",
+    "area_of_practice": "Geotechnical engineering",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.23",
+    "area_of_practice": "H.V. & refrigeration Engineering",
+    "area_of_practice_relativity_factor": 0.38
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.24",
+    "area_of_practice": "Illumination Engineering",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.25",
+    "area_of_practice": "Int. Design non structural",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.26",
+    "area_of_practice": "Land Surveys",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.27",
+    "area_of_practice": "Landscaping",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.28",
+    "area_of_practice": "Marine",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.29",
+    "area_of_practice": "Mechanical/Building Services Engineering",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.30",
+    "area_of_practice": "Mining",
+    "area_of_practice_relativity_factor": 0.38
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.31",
+    "area_of_practice": "Non Structural refurb",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.32",
+    "area_of_practice": "Non-Structural Refurbishment",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.33",
+    "area_of_practice": "Other",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.34",
+    "area_of_practice": "Party Wall surveyor",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.35",
+    "area_of_practice": "Pilling",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.36",
+    "area_of_practice": "Planning supervision",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.37",
+    "area_of_practice": "Pre-Purchase inspection",
+    "area_of_practice_relativity_factor": 0.38
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.38",
+    "area_of_practice": "Process Engineering",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.39",
+    "area_of_practice": "Project Co-ordination",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.40",
+    "area_of_practice": "Project Management",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.41",
+    "area_of_practice": "Quantity surveying CVs <\u00a310mio",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.42",
+    "area_of_practice": "Quantity surveying CVs >\u00a310mio",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.43",
+    "area_of_practice": "Setting Out",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.44",
+    "area_of_practice": "Sewerage/Water",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.45",
+    "area_of_practice": "Site investigation",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.46",
+    "area_of_practice": "Site Investigation",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.47",
+    "area_of_practice": "Soil engineering",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.48",
+    "area_of_practice": "Space Planning",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.49",
+    "area_of_practice": "Structural Engineering",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.50",
+    "area_of_practice": "Testing (Light exposure)",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.51",
+    "area_of_practice": "Testing (Medium)",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.52",
+    "area_of_practice": "Town planning",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.1",
+    "area_of_practice": "Construction using design and technical supervision supplied by the principal employer appointed architect",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.2",
+    "area_of_practice": "Design and Construct own design and technical supervision (turnover)",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.3",
+    "area_of_practice": "Facilities management",
+    "area_of_practice_relativity_factor": 0.08
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.4",
+    "area_of_practice": "Installation",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.5",
+    "area_of_practice": "Procurement",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.6",
+    "area_of_practice": "Pure fees",
+    "area_of_practice_relativity_factor": 2.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.7",
+    "area_of_practice": "Subcontractors designs own technical supervision (turnover)",
+    "area_of_practice_relativity_factor": 0.2
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.8",
+    "area_of_practice": "Subcontractors designs/technical supervision (turnover)",
+    "area_of_practice_relativity_factor": 0.2
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.1",
+    "area_of_practice": "Aviation",
+    "area_of_practice_relativity_factor": 0.4
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.2",
+    "area_of_practice": "Bloodstock",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.3",
+    "area_of_practice": "Casualty",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.4",
+    "area_of_practice": "Commercial Non marine",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.5",
+    "area_of_practice": "Construction",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.6",
+    "area_of_practice": "Contingency risks",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.7",
+    "area_of_practice": "Energy",
+    "area_of_practice_relativity_factor": 0.4
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.8",
+    "area_of_practice": "Financial Advice & Service",
+    "area_of_practice_relativity_factor": 0.78
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.9",
+    "area_of_practice": "Household",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.10",
+    "area_of_practice": "Jewellery & Fine Art",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.11",
+    "area_of_practice": "Life",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.12",
+    "area_of_practice": "Loss Adjusting",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.13",
+    "area_of_practice": "Marine",
+    "area_of_practice_relativity_factor": 0.4
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.14",
+    "area_of_practice": "Mortgage Broking",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.15",
+    "area_of_practice": "Motor insurance",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.16",
+    "area_of_practice": "Other",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.17",
+    "area_of_practice": "Pensions, FSAVCs, Endwmts & Split Caps etc",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.18",
+    "area_of_practice": "Personal Accident & Health",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.19",
+    "area_of_practice": "Personal lines",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.20",
+    "area_of_practice": "Professional Indemnity & Financial Lines",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.21",
+    "area_of_practice": "Pure protection (eg PPI)",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.22",
+    "area_of_practice": "Reinsurance - Facultative only",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.23",
+    "area_of_practice": "Reinsurance - Treaty",
+    "area_of_practice_relativity_factor": 0.4
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.24",
+    "area_of_practice": "Risk Management",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.25",
+    "area_of_practice": "Specie & Cargo",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.26",
+    "area_of_practice": "Travel insurance",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.1",
+    "area_of_practice": "Banking",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.2",
+    "area_of_practice": "Bankruptcy",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.3",
+    "area_of_practice": "Commercial Law",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.4",
+    "area_of_practice": "Corporate finance (M&A)",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.5",
+    "area_of_practice": "Corporate formation",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.6",
+    "area_of_practice": "Corporate tax",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.7",
+    "area_of_practice": "Criminal law",
+    "area_of_practice_relativity_factor": 0.41
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.8",
+    "area_of_practice": "Design & Construction",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.9",
+    "area_of_practice": "Employment law",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.10",
+    "area_of_practice": "Energy",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.11",
+    "area_of_practice": "Family law",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.12",
+    "area_of_practice": "Financial Institutions (no banks)",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.13",
+    "area_of_practice": "General litigation",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.14",
+    "area_of_practice": "Insurance claims (defense)",
+    "area_of_practice_relativity_factor": 0.41
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.15",
+    "area_of_practice": "IP & Copyright",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.16",
+    "area_of_practice": "Media",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.17",
+    "area_of_practice": "Medical malpractice",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.18",
+    "area_of_practice": "Personal Injury Litigation",
+    "area_of_practice_relativity_factor": 0.41
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.19",
+    "area_of_practice": "Personal tax",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.20",
+    "area_of_practice": "Probate",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.21",
+    "area_of_practice": "Property and Real Estate",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.22",
+    "area_of_practice": "Securities litigation",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.1",
+    "area_of_practice": "Banking",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.2",
+    "area_of_practice": "Bankruptcy",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.3",
+    "area_of_practice": "Commercial Law",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.4",
+    "area_of_practice": "Corporate finance (M&A)",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.5",
+    "area_of_practice": "Corporate formation",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.6",
+    "area_of_practice": "Corporate tax",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.7",
+    "area_of_practice": "Criminal law",
+    "area_of_practice_relativity_factor": 0.41
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.8",
+    "area_of_practice": "Design & Construction",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.9",
+    "area_of_practice": "Employment law",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.10",
+    "area_of_practice": "Energy",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.11",
+    "area_of_practice": "Family law",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.12",
+    "area_of_practice": "Financial Institutions (no banks)",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.13",
+    "area_of_practice": "General litigation",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.14",
+    "area_of_practice": "Insurance claims (defense)",
+    "area_of_practice_relativity_factor": 0.41
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.15",
+    "area_of_practice": "IP & Copyright",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.16",
+    "area_of_practice": "Media",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.17",
+    "area_of_practice": "Medical malpractice",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.18",
+    "area_of_practice": "Personal Injury Litigation",
+    "area_of_practice_relativity_factor": 0.41
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.19",
+    "area_of_practice": "Personal tax",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.20",
+    "area_of_practice": "Probate",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.21",
+    "area_of_practice": "Property and Real Estate",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.22",
+    "area_of_practice": "Securities litigation",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.1",
+    "area_of_practice": "Artists",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.2",
+    "area_of_practice": "Branding consultancy",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.3",
+    "area_of_practice": "Cartoon design",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.4",
+    "area_of_practice": "Communication consultants",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.5",
+    "area_of_practice": "Conference organiser (no travelling arrangements)",
+    "area_of_practice_relativity_factor": 0.03
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.6",
+    "area_of_practice": "Copyrighter",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.7",
+    "area_of_practice": "Corporate identity consultancy",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.8",
+    "area_of_practice": "Corporate image consultancy",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.9",
+    "area_of_practice": "Creative consultancy",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.10",
+    "area_of_practice": "Call centre",
+    "area_of_practice_relativity_factor": 0.03
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.11",
+    "area_of_practice": "Event organiser (no travelling arrangements)",
+    "area_of_practice_relativity_factor": 0.03
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.12",
+    "area_of_practice": "Desktop publisher",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.13",
+    "area_of_practice": "Design of labels, logos, trademarks",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.14",
+    "area_of_practice": "Editing",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.15",
+    "area_of_practice": "Exhibition design",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.16",
+    "area_of_practice": "Graphic design",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.17",
+    "area_of_practice": "Graphologist",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.18",
+    "area_of_practice": "Illustrator",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.19",
+    "area_of_practice": "Journalist",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.20",
+    "area_of_practice": "Literary editor",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.21",
+    "area_of_practice": "Direct Marketing Fulfilment",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.22",
+    "area_of_practice": "List broking",
+    "area_of_practice_relativity_factor": 1.15
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.23",
+    "area_of_practice": "Product sourcing",
+    "area_of_practice_relativity_factor": 1.15
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.24",
+    "area_of_practice": "Sales promotion",
+    "area_of_practice_relativity_factor": 1.5
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.25",
+    "area_of_practice": "Distributors of publications",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.26",
+    "area_of_practice": "Placement of adverts (no TV)",
+    "area_of_practice_relativity_factor": 0.01
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.27",
+    "area_of_practice": "Market research",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.28",
+    "area_of_practice": "Market consultancy",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.29",
+    "area_of_practice": "Packaging design",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.30",
+    "area_of_practice": "Packaging consultancy",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.31",
+    "area_of_practice": "Photography",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.32",
+    "area_of_practice": "Photographic library",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.33",
+    "area_of_practice": "Proof reader",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.34",
+    "area_of_practice": "Printing consultant",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.35",
+    "area_of_practice": "Publicity consultant",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.36",
+    "area_of_practice": "PR consultancy",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.37",
+    "area_of_practice": "Screen writer",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.38",
+    "area_of_practice": "Telemarketing consultant",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.39",
+    "area_of_practice": "Telesales consultant",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.40",
+    "area_of_practice": "Videographer",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.41",
+    "area_of_practice": "Web marketing services",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.42",
+    "area_of_practice": "Production of printed material",
+    "area_of_practice_relativity_factor": 0.14
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.43",
+    "area_of_practice": "Design production",
+    "area_of_practice_relativity_factor": 0.14
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.1",
+    "area_of_practice": "Acting as trustees, directors of trust / client companies (Individuals)/(Corporate (CSP))",
+    "area_of_practice_relativity_factor": 0.2
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.2",
+    "area_of_practice": "Assessment/audits (heavy) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.3",
+    "area_of_practice": "Assessment/audits (light) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.4",
+    "area_of_practice": "Comm Admin, Production, Purchasing (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.5",
+    "area_of_practice": "Company development/strategy (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.03
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.6",
+    "area_of_practice": "Computer consultancy (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.04
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.7",
+    "area_of_practice": "Distribution (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.03
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.8",
+    "area_of_practice": "Feasibility studies (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.9",
+    "area_of_practice": "Finance & Accounting (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.10",
+    "area_of_practice": "Finance & Investment Work % (Actuary)",
+    "area_of_practice_relativity_factor": 1.11
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.11",
+    "area_of_practice": "General Insurance Work % (Actuary)",
+    "area_of_practice_relativity_factor": 0.33
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.12",
+    "area_of_practice": "General Miscellaneous Work",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.13",
+    "area_of_practice": "Investigation (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.39
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.14",
+    "area_of_practice": "Legislation Advice (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.15",
+    "area_of_practice": "Life Insurance Work % (Actuary)",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.16",
+    "area_of_practice": "Locum management (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.17",
+    "area_of_practice": "Marketing & sales (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.18",
+    "area_of_practice": "Mergers, acquisitions (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.33
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.19",
+    "area_of_practice": "Other - High (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.20",
+    "area_of_practice": "Other - Low (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.21",
+    "area_of_practice": "Other - Medium (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.22",
+    "area_of_practice": "Other Actuarial Work \u2013M&A, Financing Capital Projects etc % (Actuary)",
+    "area_of_practice_relativity_factor": 0.89
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.23",
+    "area_of_practice": "Pension Administration % (Actuary)",
+    "area_of_practice_relativity_factor": 0.44
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.24",
+    "area_of_practice": "Pension Work (Designing and advising on company pension schemes, including management)% (Actuary)",
+    "area_of_practice_relativity_factor": 1.33
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.25",
+    "area_of_practice": "Personal consultants (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.26",
+    "area_of_practice": "Provision of investment advice to clients  (CSP)",
+    "area_of_practice_relativity_factor": 0.56
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.27",
+    "area_of_practice": "Provision of legal advice to clients  (CSP)",
+    "area_of_practice_relativity_factor": 0.44
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.28",
+    "area_of_practice": "Provision of Regulated Investment Advice % (Actuary)",
+    "area_of_practice_relativity_factor": 1.11
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.29",
+    "area_of_practice": "Quality systems (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.03
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.30",
+    "area_of_practice": "Recruitment Consultants",
+    "area_of_practice_relativity_factor": 0.03
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.31",
+    "area_of_practice": "Remediation (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.56
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.32",
+    "area_of_practice": "Studies & general advice (heavy) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.33",
+    "area_of_practice": "Studies & general advise (light) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.34",
+    "area_of_practice": "Technical, engineering & industrial (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.35",
+    "area_of_practice": "Testing/sampling - hazardous materials/land (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.36",
+    "area_of_practice": "The establishment and administration of companies (CSP)",
+    "area_of_practice_relativity_factor": 0.08
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.37",
+    "area_of_practice": "The establishment and administration of trusts (CSP)",
+    "area_of_practice_relativity_factor": 0.33
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.38",
+    "area_of_practice": "Training (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.04
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.39",
+    "area_of_practice": "Waste management (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.44
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.40",
+    "area_of_practice": "Waste treatment (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.56
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.1",
+    "area_of_practice": "Agricultural Valuations",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.2",
+    "area_of_practice": "Architectural - Commercial",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.3",
+    "area_of_practice": "Architectural - Residential",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.4",
+    "area_of_practice": "Architectural Refurbishment",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.5",
+    "area_of_practice": "Asset/ Insurance Valuations",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.6",
+    "area_of_practice": "Auctioneering",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.7",
+    "area_of_practice": "Building Society/Insurance Agency",
+    "area_of_practice_relativity_factor": 0.43
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.8",
+    "area_of_practice": "Building Surveys",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.9",
+    "area_of_practice": "Business Broking",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.10",
+    "area_of_practice": "CDM Co-ordinator",
+    "area_of_practice_relativity_factor": 0.43
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.11",
+    "area_of_practice": "Estate Agency Commercial",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.12",
+    "area_of_practice": "Estate Agency Residential",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.13",
+    "area_of_practice": "Expert witness",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.14",
+    "area_of_practice": "Interior design",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.15",
+    "area_of_practice": "Investment Agency, Property development",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.16",
+    "area_of_practice": "Land Surveying",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.17",
+    "area_of_practice": "Lettings",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.18",
+    "area_of_practice": "Loss Adjusting",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.19",
+    "area_of_practice": "Planning supervision",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.20",
+    "area_of_practice": "Plant & Machinery",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.21",
+    "area_of_practice": "Pre-purchase inspection",
+    "area_of_practice_relativity_factor": 0.43
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.22",
+    "area_of_practice": "Project Co-ordination",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.23",
+    "area_of_practice": "Project Management",
+    "area_of_practice_relativity_factor": 0.43
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.24",
+    "area_of_practice": "Property Management - Commercial",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.25",
+    "area_of_practice": "Property Management - Residential",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.26",
+    "area_of_practice": "Quantity Surveys CV <\u00a310mio",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.27",
+    "area_of_practice": "Quantity Surveys CV >\u00a310mio",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.28",
+    "area_of_practice": "Refurbishment",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.29",
+    "area_of_practice": "Rent reviews",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.30",
+    "area_of_practice": "Setting out",
+    "area_of_practice_relativity_factor": 0.43
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.31",
+    "area_of_practice": "Stock & Station Agent",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.32",
+    "area_of_practice": "Strata Tile",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.33",
+    "area_of_practice": "Town planning",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.34",
+    "area_of_practice": "Valuations - commercial- Non Lending",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.35",
+    "area_of_practice": "Valuations - commercial-Lending",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.36",
+    "area_of_practice": "Valuations - Residential-Lending",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.37",
+    "area_of_practice": "Valuations - Residential-Non Lending",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.1",
+    "area_of_practice": "Biographies and auto biographies",
+    "area_of_practice_relativity_factor": 1.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.2",
+    "area_of_practice": "Medical publications",
+    "area_of_practice_relativity_factor": 1.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.3",
+    "area_of_practice": "Investment publications",
+    "area_of_practice_relativity_factor": 1.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.4",
+    "area_of_practice": "Film producers",
+    "area_of_practice_relativity_factor": 1.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.5",
+    "area_of_practice": "Internet publishers of user generated content",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.6",
+    "area_of_practice": "Trade publications",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.7",
+    "area_of_practice": "Fiction",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.8",
+    "area_of_practice": "Children's books",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.9",
+    "area_of_practice": "Catalogues",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.10",
+    "area_of_practice": "Training and educational material",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.11",
+    "area_of_practice": "Lifestyle and hobby magazines",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.12",
+    "area_of_practice": "Flyers",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.13",
+    "area_of_practice": "Promotional literature",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.14",
+    "area_of_practice": "Invitations and announcements",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.15",
+    "area_of_practice": "Internet publishers no user generated content",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.16",
+    "area_of_practice": "Local newspapers (no political or religious content)",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.17",
+    "area_of_practice": "Technical publications",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.18",
+    "area_of_practice": "Instruction manuals",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.19",
+    "area_of_practice": "Local radio stations (no live unscripted broadcasts)",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.1",
+    "area_of_practice": "Customisation of third party software",
+    "area_of_practice_relativity_factor": 0.55
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.2",
+    "area_of_practice": "Project management",
+    "area_of_practice_relativity_factor": 0.55
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.3",
+    "area_of_practice": "Systems integration",
+    "area_of_practice_relativity_factor": 0.55
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.4",
+    "area_of_practice": "Design and supply of bespoke software",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.5",
+    "area_of_practice": "Pure consultancy",
+    "area_of_practice_relativity_factor": 0.55
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.6",
+    "area_of_practice": "Sale of third party customisable software (no bespoke)",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.7",
+    "area_of_practice": "Sale of third party software and hardware (no customisation)",
+    "area_of_practice_relativity_factor": 0.06
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.8",
+    "area_of_practice": "Supply of own software, customisable (no bespoke)",
+    "area_of_practice_relativity_factor": 0.36
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.9",
+    "area_of_practice": "Hardware and software installation",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.10",
+    "area_of_practice": "Software configuration",
+    "area_of_practice_relativity_factor": 0.36
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.11",
+    "area_of_practice": "Domain name registration",
+    "area_of_practice_relativity_factor": 0.36
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.12",
+    "area_of_practice": "Web design (excl adult websites)",
+    "area_of_practice_relativity_factor": 0.36
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.13",
+    "area_of_practice": "Supply of own software not customisable or bespoke",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.14",
+    "area_of_practice": "Resale of third party web hosting",
+    "area_of_practice_relativity_factor": 0.36
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.15",
+    "area_of_practice": "Training",
+    "area_of_practice_relativity_factor": 0.24
+  },
+  {
+    "region_id": "R1",
+    "region": "Non-USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.16",
+    "area_of_practice": "Web hosting other than resale of third party web hosting",
+    "area_of_practice_relativity_factor": 1.1
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.1",
+    "area_of_practice": "Accountancy/Accounts",
+    "area_of_practice_relativity_factor": 0.16999999999999998
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.2",
+    "area_of_practice": "Accounts Preparation/Bookkeeping (Insolvency)",
+    "area_of_practice_relativity_factor": 0.16
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.3",
+    "area_of_practice": "Actuarial work",
+    "area_of_practice_relativity_factor": 0.46
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.4",
+    "area_of_practice": "Audit-Financial Institutions (Insolvency)",
+    "area_of_practice_relativity_factor": 1.7
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.5",
+    "area_of_practice": "Audit Quoted co",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.6",
+    "area_of_practice": "Audit Small traders",
+    "area_of_practice_relativity_factor": 0.47000000000000003
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.7",
+    "area_of_practice": "Audit Super Funds (Insolvency)",
+    "area_of_practice_relativity_factor": 0.46
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.8",
+    "area_of_practice": "Audit Unquoted co",
+    "area_of_practice_relativity_factor": 0.49
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.9",
+    "area_of_practice": "Audit-Not for Profit Co (Insolvency)",
+    "area_of_practice_relativity_factor": 0.46
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.10",
+    "area_of_practice": "Audit-Private Co (Insolvency)",
+    "area_of_practice_relativity_factor": 0.47000000000000003
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.11",
+    "area_of_practice": "Audit-Public Listed (Insolvency)",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.12",
+    "area_of_practice": "Audit-Public Non Listed (Insolvency)",
+    "area_of_practice_relativity_factor": 0.47000000000000003
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.13",
+    "area_of_practice": "Basic Activity",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.14",
+    "area_of_practice": "Bookkeeping",
+    "area_of_practice_relativity_factor": 0.16999999999999998
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.15",
+    "area_of_practice": "Business Turnaround/ Reconstruction Advisory (Insolvency)",
+    "area_of_practice_relativity_factor": 1.02
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.16",
+    "area_of_practice": "Business Valuations (Insolvency)",
+    "area_of_practice_relativity_factor": 1.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.17",
+    "area_of_practice": "Consultancy",
+    "area_of_practice_relativity_factor": 0.47000000000000003
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.18",
+    "area_of_practice": "Combined",
+    "area_of_practice_relativity_factor": 1.69
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.19",
+    "area_of_practice": "Company Directorships/ Secretarial Positions (Insolvency)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.20",
+    "area_of_practice": "Company Registrar Work",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.21",
+    "area_of_practice": "Corporate Advisory (Insolvency)",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.22",
+    "area_of_practice": "Corporate Finance",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.23",
+    "area_of_practice": "Directorships",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.24",
+    "area_of_practice": "Disposals & Take Over",
+    "area_of_practice_relativity_factor": 0.73
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.25",
+    "area_of_practice": "Executorship (Insolvency)",
+    "area_of_practice_relativity_factor": 0.72
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.26",
+    "area_of_practice": "Expert Witness Work",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.27",
+    "area_of_practice": "FCA regulated activity",
+    "area_of_practice_relativity_factor": 1.7
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.28",
+    "area_of_practice": "Financial Planning (Insolvency)",
+    "area_of_practice_relativity_factor": 1.69
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.29",
+    "area_of_practice": "Forensic Accounting",
+    "area_of_practice_relativity_factor": 0.71
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.30",
+    "area_of_practice": "Forensic Accounting (Insolvency)",
+    "area_of_practice_relativity_factor": 0.7
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.31",
+    "area_of_practice": "Insolvency-Bankruptcy (Insolvency)",
+    "area_of_practice_relativity_factor": 0.73
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.32",
+    "area_of_practice": "Insolvency-Controller (Insolvency)",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.33",
+    "area_of_practice": "Insolvency-Liquidations (Insolvency)",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.34",
+    "area_of_practice": "Insolvency-Receivership (Insolvency)",
+    "area_of_practice_relativity_factor": 0.73
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.35",
+    "area_of_practice": "Insolvency-VAs (Insolvency)",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.36",
+    "area_of_practice": "Insurance commissions",
+    "area_of_practice_relativity_factor": 0.71
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.37",
+    "area_of_practice": "Investment Advice & Other Financial Services work",
+    "area_of_practice_relativity_factor": 1.69
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.38",
+    "area_of_practice": "IT Consultancy",
+    "area_of_practice_relativity_factor": 0.72
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.39",
+    "area_of_practice": "IVAs (Individual Voluntary Arrangements)",
+    "area_of_practice_relativity_factor": 0.46
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.40",
+    "area_of_practice": "M&A",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.41",
+    "area_of_practice": "M&As (Insolvency)",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.42",
+    "area_of_practice": "Management Consultants",
+    "area_of_practice_relativity_factor": 0.74
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.43",
+    "area_of_practice": "Mergers and Acquisitions, Corporate finance",
+    "area_of_practice_relativity_factor": 0.72
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.44",
+    "area_of_practice": "MGMT Consultancy/Accounting (Insolvency)",
+    "area_of_practice_relativity_factor": 0.73
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.45",
+    "area_of_practice": "Mortgage Broking (Insolvency)",
+    "area_of_practice_relativity_factor": 0.73
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.46",
+    "area_of_practice": "Payroll",
+    "area_of_practice_relativity_factor": 0.32999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.47",
+    "area_of_practice": "Pensions, Endowments",
+    "area_of_practice_relativity_factor": 1.68
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.48",
+    "area_of_practice": "Secretarial services",
+    "area_of_practice_relativity_factor": 0.32
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.49",
+    "area_of_practice": "Superannuation & Fund MGMT (Insolvency)",
+    "area_of_practice_relativity_factor": 0.71
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.50",
+    "area_of_practice": "Taxation-Corporate",
+    "area_of_practice_relativity_factor": 0.48
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.51",
+    "area_of_practice": "Taxation (Insolvency)",
+    "area_of_practice_relativity_factor": 0.47000000000000003
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.52",
+    "area_of_practice": "Taxation Consultancy",
+    "area_of_practice_relativity_factor": 0.49
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.53",
+    "area_of_practice": "Taxation-Personal",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF1",
+    "profession": "Accountants",
+    "area_of_practice_id": "PROF1.54",
+    "area_of_practice": "Trustee/Directorships/Executorships",
+    "area_of_practice_relativity_factor": 0.73
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.1",
+    "area_of_practice": "Aborted work",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.2",
+    "area_of_practice": "Acoustic Engineer",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.3",
+    "area_of_practice": "Arbitration",
+    "area_of_practice_relativity_factor": 0.12000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.4",
+    "area_of_practice": "Architectural - Commercial",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.5",
+    "area_of_practice": "Architectural - Residential",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.6",
+    "area_of_practice": "Bridges/Tunnels/Dams/Mines",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.7",
+    "area_of_practice": "Building Certification",
+    "area_of_practice_relativity_factor": 0.54
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.8",
+    "area_of_practice": "Building Surveys",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.9",
+    "area_of_practice": "CAD Design",
+    "area_of_practice_relativity_factor": 0.39
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.10",
+    "area_of_practice": "CDM Co-ordinator",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.11",
+    "area_of_practice": "Chemical/Nuclear",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.12",
+    "area_of_practice": "Civil Engineering",
+    "area_of_practice_relativity_factor": 0.52
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.13",
+    "area_of_practice": "Cladding",
+    "area_of_practice_relativity_factor": 0.65
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.14",
+    "area_of_practice": "Clerk of works",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.15",
+    "area_of_practice": "Drafting/Detailing",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.16",
+    "area_of_practice": "Electrical Engineering",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.17",
+    "area_of_practice": "Expert witness",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.18",
+    "area_of_practice": "Feasibility",
+    "area_of_practice_relativity_factor": 0.14
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.19",
+    "area_of_practice": "Fees paid to subbies",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.20",
+    "area_of_practice": "Forensic Engineering",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.21",
+    "area_of_practice": "Foundation/Underpinning/Piling/Cladding",
+    "area_of_practice_relativity_factor": 0.63
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.22",
+    "area_of_practice": "Geotechnical engineering",
+    "area_of_practice_relativity_factor": 0.65
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.23",
+    "area_of_practice": "H.V. & refrigeration Engineering",
+    "area_of_practice_relativity_factor": 0.41000000000000003
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.24",
+    "area_of_practice": "Illumination Engineering",
+    "area_of_practice_relativity_factor": 0.31999999999999995
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.25",
+    "area_of_practice": "Int. Design non structural",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.26",
+    "area_of_practice": "Land Surveys",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.27",
+    "area_of_practice": "Landscaping",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.28",
+    "area_of_practice": "Marine",
+    "area_of_practice_relativity_factor": 0.5
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.29",
+    "area_of_practice": "Mechanical/Building Services Engineering",
+    "area_of_practice_relativity_factor": 0.65
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.30",
+    "area_of_practice": "Mining",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.31",
+    "area_of_practice": "Non Structural refurb",
+    "area_of_practice_relativity_factor": 0.12000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.32",
+    "area_of_practice": "Non-Structural Refurbishment",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.33",
+    "area_of_practice": "Other",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.34",
+    "area_of_practice": "Party Wall surveyor",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.35",
+    "area_of_practice": "Pilling",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.36",
+    "area_of_practice": "Planning supervision",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.37",
+    "area_of_practice": "Pre-Purchase inspection",
+    "area_of_practice_relativity_factor": 0.38
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.38",
+    "area_of_practice": "Process Engineering",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.39",
+    "area_of_practice": "Project Co-ordination",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.40",
+    "area_of_practice": "Project Management",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.41",
+    "area_of_practice": "Quantity surveying CVs <\u00a310mio",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.42",
+    "area_of_practice": "Quantity surveying CVs >\u00a310mio",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.43",
+    "area_of_practice": "Setting Out",
+    "area_of_practice_relativity_factor": 0.52
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.44",
+    "area_of_practice": "Sewerage/Water",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.45",
+    "area_of_practice": "Site investigation",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.46",
+    "area_of_practice": "Site Investigation",
+    "area_of_practice_relativity_factor": 0.65
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.47",
+    "area_of_practice": "Soil engineering",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.48",
+    "area_of_practice": "Space Planning",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.49",
+    "area_of_practice": "Structural Engineering",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.50",
+    "area_of_practice": "Testing (Light exposure)",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.51",
+    "area_of_practice": "Testing (Medium)",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF2",
+    "profession": "Architects & Engineers",
+    "area_of_practice_id": "PROF2.52",
+    "area_of_practice": "Town planning",
+    "area_of_practice_relativity_factor": 0.14
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.1",
+    "area_of_practice": "Construction using design and technical supervision supplied by the principal employer appointed architect",
+    "area_of_practice_relativity_factor": 0.060000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.2",
+    "area_of_practice": "Design and Construct own design and technical supervision (turnover)",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.3",
+    "area_of_practice": "Facilities management",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.4",
+    "area_of_practice": "Installation",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.5",
+    "area_of_practice": "Procurement",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.6",
+    "area_of_practice": "Pure fees",
+    "area_of_practice_relativity_factor": 2.53
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.7",
+    "area_of_practice": "Subcontractors designs own technical supervision (turnover)",
+    "area_of_practice_relativity_factor": 0.23
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF3",
+    "profession": "Design & Construct",
+    "area_of_practice_id": "PROF3.8",
+    "area_of_practice": "Subcontractors designs/technical supervision (turnover)",
+    "area_of_practice_relativity_factor": 0.24000000000000002
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.1",
+    "area_of_practice": "Aviation",
+    "area_of_practice_relativity_factor": 0.42000000000000004
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.2",
+    "area_of_practice": "Bloodstock",
+    "area_of_practice_relativity_factor": 0.26
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.3",
+    "area_of_practice": "Casualty",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.4",
+    "area_of_practice": "Commercial Non marine",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.5",
+    "area_of_practice": "Construction",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.6",
+    "area_of_practice": "Contingency risks",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.7",
+    "area_of_practice": "Energy",
+    "area_of_practice_relativity_factor": 0.43000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.8",
+    "area_of_practice": "Financial Advice & Service",
+    "area_of_practice_relativity_factor": 0.8200000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.9",
+    "area_of_practice": "Household",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.10",
+    "area_of_practice": "Jewellery & Fine Art",
+    "area_of_practice_relativity_factor": 0.27
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.11",
+    "area_of_practice": "Life",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.12",
+    "area_of_practice": "Loss Adjusting",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.13",
+    "area_of_practice": "Marine",
+    "area_of_practice_relativity_factor": 0.4
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.14",
+    "area_of_practice": "Mortgage Broking",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.15",
+    "area_of_practice": "Motor insurance",
+    "area_of_practice_relativity_factor": 0.13999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.16",
+    "area_of_practice": "Other",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.17",
+    "area_of_practice": "Pensions, FSAVCs, Endwmts & Split Caps etc",
+    "area_of_practice_relativity_factor": 0.08
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.18",
+    "area_of_practice": "Personal Accident & Health",
+    "area_of_practice_relativity_factor": 0.13999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.19",
+    "area_of_practice": "Personal lines",
+    "area_of_practice_relativity_factor": 0.15
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.20",
+    "area_of_practice": "Professional Indemnity & Financial Lines",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.21",
+    "area_of_practice": "Pure protection (eg PPI)",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.22",
+    "area_of_practice": "Reinsurance - Facultative only",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.23",
+    "area_of_practice": "Reinsurance - Treaty",
+    "area_of_practice_relativity_factor": 0.4
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.24",
+    "area_of_practice": "Risk Management",
+    "area_of_practice_relativity_factor": 0.27
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.25",
+    "area_of_practice": "Specie & Cargo",
+    "area_of_practice_relativity_factor": 0.060000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF4",
+    "profession": "Insurance Brokers",
+    "area_of_practice_id": "PROF4.26",
+    "area_of_practice": "Travel insurance",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.1",
+    "area_of_practice": "Banking",
+    "area_of_practice_relativity_factor": 0.92
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.2",
+    "area_of_practice": "Bankruptcy",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.3",
+    "area_of_practice": "Commercial Law",
+    "area_of_practice_relativity_factor": 0.7000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.4",
+    "area_of_practice": "Corporate finance (M&A)",
+    "area_of_practice_relativity_factor": 0.9400000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.5",
+    "area_of_practice": "Corporate formation",
+    "area_of_practice_relativity_factor": 0.93
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.6",
+    "area_of_practice": "Corporate tax",
+    "area_of_practice_relativity_factor": 0.91
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.7",
+    "area_of_practice": "Criminal law",
+    "area_of_practice_relativity_factor": 0.43999999999999995
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.8",
+    "area_of_practice": "Design & Construction",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.9",
+    "area_of_practice": "Employment law",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.10",
+    "area_of_practice": "Energy",
+    "area_of_practice_relativity_factor": 0.92
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.11",
+    "area_of_practice": "Family law",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.12",
+    "area_of_practice": "Financial Institutions (no banks)",
+    "area_of_practice_relativity_factor": 0.92
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.13",
+    "area_of_practice": "General litigation",
+    "area_of_practice_relativity_factor": 0.7000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.14",
+    "area_of_practice": "Insurance claims (defense)",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.15",
+    "area_of_practice": "IP & Copyright",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.16",
+    "area_of_practice": "Media",
+    "area_of_practice_relativity_factor": 0.92
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.17",
+    "area_of_practice": "Medical malpractice",
+    "area_of_practice_relativity_factor": 0.060000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.18",
+    "area_of_practice": "Personal Injury Litigation",
+    "area_of_practice_relativity_factor": 0.44999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.19",
+    "area_of_practice": "Personal tax",
+    "area_of_practice_relativity_factor": 0.6900000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.20",
+    "area_of_practice": "Probate",
+    "area_of_practice_relativity_factor": 0.9400000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.21",
+    "area_of_practice": "Property and Real Estate",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF5",
+    "profession": "Lawyers",
+    "area_of_practice_id": "PROF5.22",
+    "area_of_practice": "Securities litigation",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.1",
+    "area_of_practice": "Banking",
+    "area_of_practice_relativity_factor": 0.92
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.2",
+    "area_of_practice": "Bankruptcy",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.3",
+    "area_of_practice": "Commercial Law",
+    "area_of_practice_relativity_factor": 0.6900000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.4",
+    "area_of_practice": "Corporate finance (M&A)",
+    "area_of_practice_relativity_factor": 0.93
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.5",
+    "area_of_practice": "Corporate formation",
+    "area_of_practice_relativity_factor": 0.9400000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.6",
+    "area_of_practice": "Corporate tax",
+    "area_of_practice_relativity_factor": 0.92
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.7",
+    "area_of_practice": "Criminal law",
+    "area_of_practice_relativity_factor": 0.44999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.8",
+    "area_of_practice": "Design & Construction",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.9",
+    "area_of_practice": "Employment law",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.10",
+    "area_of_practice": "Energy",
+    "area_of_practice_relativity_factor": 0.91
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.11",
+    "area_of_practice": "Family law",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.12",
+    "area_of_practice": "Financial Institutions (no banks)",
+    "area_of_practice_relativity_factor": 0.91
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.13",
+    "area_of_practice": "General litigation",
+    "area_of_practice_relativity_factor": 0.7000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.14",
+    "area_of_practice": "Insurance claims (defense)",
+    "area_of_practice_relativity_factor": 0.44999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.15",
+    "area_of_practice": "IP & Copyright",
+    "area_of_practice_relativity_factor": 0.9400000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.16",
+    "area_of_practice": "Media",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.17",
+    "area_of_practice": "Medical malpractice",
+    "area_of_practice_relativity_factor": 0.08
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.18",
+    "area_of_practice": "Personal Injury Litigation",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.19",
+    "area_of_practice": "Personal tax",
+    "area_of_practice_relativity_factor": 0.7000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.20",
+    "area_of_practice": "Probate",
+    "area_of_practice_relativity_factor": 0.9
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.21",
+    "area_of_practice": "Property and Real Estate",
+    "area_of_practice_relativity_factor": 1.02
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF6",
+    "profession": "US Lawyers",
+    "area_of_practice_id": "PROF6.22",
+    "area_of_practice": "Securities litigation",
+    "area_of_practice_relativity_factor": 0.92
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.1",
+    "area_of_practice": "Artists",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.2",
+    "area_of_practice": "Branding consultancy",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.3",
+    "area_of_practice": "Cartoon design",
+    "area_of_practice_relativity_factor": 0.32999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.4",
+    "area_of_practice": "Communication consultants",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.5",
+    "area_of_practice": "Conference organiser (no travelling arrangements)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.6",
+    "area_of_practice": "Copyrighter",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.7",
+    "area_of_practice": "Corporate identity consultancy",
+    "area_of_practice_relativity_factor": 0.32
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.8",
+    "area_of_practice": "Corporate image consultancy",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.9",
+    "area_of_practice": "Creative consultancy",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.10",
+    "area_of_practice": "Call centre",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.11",
+    "area_of_practice": "Event organiser (no travelling arrangements)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.12",
+    "area_of_practice": "Desktop publisher",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.13",
+    "area_of_practice": "Design of labels, logos, trademarks",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.14",
+    "area_of_practice": "Editing",
+    "area_of_practice_relativity_factor": 0.32999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.15",
+    "area_of_practice": "Exhibition design",
+    "area_of_practice_relativity_factor": 0.32
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.16",
+    "area_of_practice": "Graphic design",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.17",
+    "area_of_practice": "Graphologist",
+    "area_of_practice_relativity_factor": 0.060000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.18",
+    "area_of_practice": "Illustrator",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.19",
+    "area_of_practice": "Journalist",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.20",
+    "area_of_practice": "Literary editor",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.21",
+    "area_of_practice": "Direct Marketing Fulfilment",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.22",
+    "area_of_practice": "List broking",
+    "area_of_practice_relativity_factor": 1.16
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.23",
+    "area_of_practice": "Product sourcing",
+    "area_of_practice_relativity_factor": 1.18
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.24",
+    "area_of_practice": "Sales promotion",
+    "area_of_practice_relativity_factor": 1.5
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.25",
+    "area_of_practice": "Distributors of publications",
+    "area_of_practice_relativity_factor": 0.08
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.26",
+    "area_of_practice": "Placement of adverts (no TV)",
+    "area_of_practice_relativity_factor": 0.01
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.27",
+    "area_of_practice": "Market research",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.28",
+    "area_of_practice": "Market consultancy",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.29",
+    "area_of_practice": "Packaging design",
+    "area_of_practice_relativity_factor": 0.32
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.30",
+    "area_of_practice": "Packaging consultancy",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.31",
+    "area_of_practice": "Photography",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.32",
+    "area_of_practice": "Photographic library",
+    "area_of_practice_relativity_factor": 0.31
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.33",
+    "area_of_practice": "Proof reader",
+    "area_of_practice_relativity_factor": 0.060000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.34",
+    "area_of_practice": "Printing consultant",
+    "area_of_practice_relativity_factor": 0.32
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.35",
+    "area_of_practice": "Publicity consultant",
+    "area_of_practice_relativity_factor": 0.33999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.36",
+    "area_of_practice": "PR consultancy",
+    "area_of_practice_relativity_factor": 0.32
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.37",
+    "area_of_practice": "Screen writer",
+    "area_of_practice_relativity_factor": 0.32999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.38",
+    "area_of_practice": "Telemarketing consultant",
+    "area_of_practice_relativity_factor": 0.32
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.39",
+    "area_of_practice": "Telesales consultant",
+    "area_of_practice_relativity_factor": 0.32999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.40",
+    "area_of_practice": "Videographer",
+    "area_of_practice_relativity_factor": 0.3
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.41",
+    "area_of_practice": "Web marketing services",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.42",
+    "area_of_practice": "Production of printed material",
+    "area_of_practice_relativity_factor": 0.15000000000000002
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF7",
+    "profession": "Marketing & Media",
+    "area_of_practice_id": "PROF7.43",
+    "area_of_practice": "Design production",
+    "area_of_practice_relativity_factor": 0.14
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.1",
+    "area_of_practice": "Acting as trustees, directors of trust / client companies (Individuals)/(Corporate (CSP))",
+    "area_of_practice_relativity_factor": 0.23
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.2",
+    "area_of_practice": "Assessment/audits (heavy) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.31000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.3",
+    "area_of_practice": "Assessment/audits (light) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.15
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.4",
+    "area_of_practice": "Comm Admin, Production, Purchasing (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.5",
+    "area_of_practice": "Company development/strategy (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.6",
+    "area_of_practice": "Computer consultancy (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.7",
+    "area_of_practice": "Distribution (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.04
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.8",
+    "area_of_practice": "Feasibility studies (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.16
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.9",
+    "area_of_practice": "Finance & Accounting (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.060000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.10",
+    "area_of_practice": "Finance & Investment Work % (Actuary)",
+    "area_of_practice_relativity_factor": 1.12
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.11",
+    "area_of_practice": "General Insurance Work % (Actuary)",
+    "area_of_practice_relativity_factor": 0.33
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.12",
+    "area_of_practice": "General Miscellaneous Work",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.13",
+    "area_of_practice": "Investigation (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.4
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.14",
+    "area_of_practice": "Legislation Advice (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.15",
+    "area_of_practice": "Life Insurance Work % (Actuary)",
+    "area_of_practice_relativity_factor": 0.7000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.16",
+    "area_of_practice": "Locum management (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.17",
+    "area_of_practice": "Marketing & sales (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.08
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.18",
+    "area_of_practice": "Mergers, acquisitions (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.33
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.19",
+    "area_of_practice": "Other - High (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.31000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.20",
+    "area_of_practice": "Other - Low (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.21",
+    "area_of_practice": "Other - Medium (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.14
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.22",
+    "area_of_practice": "Other Actuarial Work \u2013M&A, Financing Capital Projects etc % (Actuary)",
+    "area_of_practice_relativity_factor": 0.93
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.23",
+    "area_of_practice": "Pension Administration % (Actuary)",
+    "area_of_practice_relativity_factor": 0.46
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.24",
+    "area_of_practice": "Pension Work (Designing and advising on company pension schemes, including management)% (Actuary)",
+    "area_of_practice_relativity_factor": 1.37
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.25",
+    "area_of_practice": "Personal consultants (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.26",
+    "area_of_practice": "Provision of investment advice to clients  (CSP)",
+    "area_of_practice_relativity_factor": 0.5700000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.27",
+    "area_of_practice": "Provision of legal advice to clients  (CSP)",
+    "area_of_practice_relativity_factor": 0.45
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.28",
+    "area_of_practice": "Provision of Regulated Investment Advice % (Actuary)",
+    "area_of_practice_relativity_factor": 1.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.29",
+    "area_of_practice": "Quality systems (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.30",
+    "area_of_practice": "Recruitment Consultants",
+    "area_of_practice_relativity_factor": 0.06
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.31",
+    "area_of_practice": "Remediation (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.5700000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.32",
+    "area_of_practice": "Studies & general advice (heavy) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.30000000000000004
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.33",
+    "area_of_practice": "Studies & general advise (light) (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.34",
+    "area_of_practice": "Technical, engineering & industrial (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.35",
+    "area_of_practice": "Testing/sampling - hazardous materials/land (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.36",
+    "area_of_practice": "The establishment and administration of companies (CSP)",
+    "area_of_practice_relativity_factor": 0.12
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.37",
+    "area_of_practice": "The establishment and administration of trusts (CSP)",
+    "area_of_practice_relativity_factor": 0.33
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.38",
+    "area_of_practice": "Training (Management Consultants)",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.39",
+    "area_of_practice": "Waste management (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.44
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF8",
+    "profession": "Miscellaneous",
+    "area_of_practice_id": "PROF8.40",
+    "area_of_practice": "Waste treatment (Enviro Con)",
+    "area_of_practice_relativity_factor": 0.6000000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.1",
+    "area_of_practice": "Agricultural Valuations",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.2",
+    "area_of_practice": "Architectural - Commercial",
+    "area_of_practice_relativity_factor": 0.66
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.3",
+    "area_of_practice": "Architectural - Residential",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.4",
+    "area_of_practice": "Architectural Refurbishment",
+    "area_of_practice_relativity_factor": 0.68
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.5",
+    "area_of_practice": "Asset/ Insurance Valuations",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.6",
+    "area_of_practice": "Auctioneering",
+    "area_of_practice_relativity_factor": 0.09999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.7",
+    "area_of_practice": "Building Society/Insurance Agency",
+    "area_of_practice_relativity_factor": 0.43
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.8",
+    "area_of_practice": "Building Surveys",
+    "area_of_practice_relativity_factor": 0.67
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.9",
+    "area_of_practice": "Business Broking",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.10",
+    "area_of_practice": "CDM Co-ordinator",
+    "area_of_practice_relativity_factor": 0.44
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.11",
+    "area_of_practice": "Estate Agency Commercial",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.12",
+    "area_of_practice": "Estate Agency Residential",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.13",
+    "area_of_practice": "Expert witness",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.14",
+    "area_of_practice": "Interior design",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.15",
+    "area_of_practice": "Investment Agency, Property development",
+    "area_of_practice_relativity_factor": 0.68
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.16",
+    "area_of_practice": "Land Surveying",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.17",
+    "area_of_practice": "Lettings",
+    "area_of_practice_relativity_factor": 0.09999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.18",
+    "area_of_practice": "Loss Adjusting",
+    "area_of_practice_relativity_factor": 0.11
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.19",
+    "area_of_practice": "Planning supervision",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.20",
+    "area_of_practice": "Plant & Machinery",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.21",
+    "area_of_practice": "Pre-purchase inspection",
+    "area_of_practice_relativity_factor": 0.44
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.22",
+    "area_of_practice": "Project Co-ordination",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.23",
+    "area_of_practice": "Project Management",
+    "area_of_practice_relativity_factor": 0.43
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.24",
+    "area_of_practice": "Property Management - Commercial",
+    "area_of_practice_relativity_factor": 0.09999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.25",
+    "area_of_practice": "Property Management - Residential",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.26",
+    "area_of_practice": "Quantity Surveys CV <\u00a310mio",
+    "area_of_practice_relativity_factor": 0.09999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.27",
+    "area_of_practice": "Quantity Surveys CV >\u00a310mio",
+    "area_of_practice_relativity_factor": 0.09999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.28",
+    "area_of_practice": "Refurbishment",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.29",
+    "area_of_practice": "Rent reviews",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.30",
+    "area_of_practice": "Setting out",
+    "area_of_practice_relativity_factor": 0.44
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.31",
+    "area_of_practice": "Stock & Station Agent",
+    "area_of_practice_relativity_factor": 0.27
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.32",
+    "area_of_practice": "Strata Tile",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.33",
+    "area_of_practice": "Town planning",
+    "area_of_practice_relativity_factor": 0.09
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.34",
+    "area_of_practice": "Valuations - commercial- Non Lending",
+    "area_of_practice_relativity_factor": 0.65
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.35",
+    "area_of_practice": "Valuations - commercial-Lending",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.36",
+    "area_of_practice": "Valuations - Residential-Lending",
+    "area_of_practice_relativity_factor": 1.02
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF9",
+    "profession": "Property Professionals",
+    "area_of_practice_id": "PROF9.37",
+    "area_of_practice": "Valuations - Residential-Non Lending",
+    "area_of_practice_relativity_factor": 0.64
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.1",
+    "area_of_practice": "Biographies and auto biographies",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.2",
+    "area_of_practice": "Medical publications",
+    "area_of_practice_relativity_factor": 1.06
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.3",
+    "area_of_practice": "Investment publications",
+    "area_of_practice_relativity_factor": 1.08
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.4",
+    "area_of_practice": "Film producers",
+    "area_of_practice_relativity_factor": 1.06
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.5",
+    "area_of_practice": "Internet publishers of user generated content",
+    "area_of_practice_relativity_factor": 1.01
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.6",
+    "area_of_practice": "Trade publications",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.7",
+    "area_of_practice": "Fiction",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.8",
+    "area_of_practice": "Children's books",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.9",
+    "area_of_practice": "Catalogues",
+    "area_of_practice_relativity_factor": 0.07
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.10",
+    "area_of_practice": "Training and educational material",
+    "area_of_practice_relativity_factor": 0.26
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.11",
+    "area_of_practice": "Lifestyle and hobby magazines",
+    "area_of_practice_relativity_factor": 0.26
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.12",
+    "area_of_practice": "Flyers",
+    "area_of_practice_relativity_factor": 0.27
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.13",
+    "area_of_practice": "Promotional literature",
+    "area_of_practice_relativity_factor": 0.28
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.14",
+    "area_of_practice": "Invitations and announcements",
+    "area_of_practice_relativity_factor": 0.29
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.15",
+    "area_of_practice": "Internet publishers no user generated content",
+    "area_of_practice_relativity_factor": 0.25
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.16",
+    "area_of_practice": "Local newspapers (no political or religious content)",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.17",
+    "area_of_practice": "Technical publications",
+    "area_of_practice_relativity_factor": 0.05
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.18",
+    "area_of_practice": "Instruction manuals",
+    "area_of_practice_relativity_factor": 0.44999999999999996
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF10",
+    "profession": "Publishers & Broadcasters",
+    "area_of_practice_id": "PROF10.19",
+    "area_of_practice": "Local radio stations (no live unscripted broadcasts)",
+    "area_of_practice_relativity_factor": 0.42
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.1",
+    "area_of_practice": "Customisation of third party software",
+    "area_of_practice_relativity_factor": 0.56
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.2",
+    "area_of_practice": "Project management",
+    "area_of_practice_relativity_factor": 0.5800000000000001
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.3",
+    "area_of_practice": "Systems integration",
+    "area_of_practice_relativity_factor": 0.55
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.4",
+    "area_of_practice": "Design and supply of bespoke software",
+    "area_of_practice_relativity_factor": 1.0
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.5",
+    "area_of_practice": "Pure consultancy",
+    "area_of_practice_relativity_factor": 0.55
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.6",
+    "area_of_practice": "Sale of third party customisable software (no bespoke)",
+    "area_of_practice_relativity_factor": 0.09999999999999999
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.7",
+    "area_of_practice": "Sale of third party software and hardware (no customisation)",
+    "area_of_practice_relativity_factor": 0.1
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.8",
+    "area_of_practice": "Supply of own software, customisable (no bespoke)",
+    "area_of_practice_relativity_factor": 0.39
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.9",
+    "area_of_practice": "Hardware and software installation",
+    "area_of_practice_relativity_factor": 0.060000000000000005
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.10",
+    "area_of_practice": "Software configuration",
+    "area_of_practice_relativity_factor": 0.37
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.11",
+    "area_of_practice": "Domain name registration",
+    "area_of_practice_relativity_factor": 0.36
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.12",
+    "area_of_practice": "Web design (excl adult websites)",
+    "area_of_practice_relativity_factor": 0.37
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.13",
+    "area_of_practice": "Supply of own software not customisable or bespoke",
+    "area_of_practice_relativity_factor": 0.13
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.14",
+    "area_of_practice": "Resale of third party web hosting",
+    "area_of_practice_relativity_factor": 0.39999999999999997
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.15",
+    "area_of_practice": "Training",
+    "area_of_practice_relativity_factor": 0.26
+  },
+  {
+    "region_id": "R2",
+    "region": "USA",
+    "profession_id": "PROF11",
+    "profession": "Technology",
+    "area_of_practice_id": "PROF11.16",
+    "area_of_practice": "Web hosting other than resale of third party web hosting",
+    "area_of_practice_relativity_factor": 1.1300000000000001
+  }
+]

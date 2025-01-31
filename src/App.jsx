@@ -1,4 +1,6 @@
 import './App.css';
+import { AutoComplete } from './components/autocomplete';
+import { ContSpec } from './components/containment-and-specialization';
 import { UserProfiles } from './exercise/user';
 import { ReducerTask } from './exercise/using-reducer';
 import { Home } from './pages/home';
@@ -12,6 +14,8 @@ function App() {
     <div className="App">
       {/* <Home /> */}
       {/* <Todo /> */}
+      <AutoComplete />
+      <ContSpec />
       <ReducerTask />
       <LemonApp />
       <TestForm />
