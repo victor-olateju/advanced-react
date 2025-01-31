@@ -44,11 +44,7 @@ export const AutoComplete = () => {
     const handleInputChange = (e) => {
         const value = e.target.value.toLowerCase();
         const filtered = books.filter((book) => 
-            book.title.toLowerCase().includes(value) ||
-            book.author.toLowerCase().includes(value) ||
-            book.yearPublished.toString().includes(value) ||
-            book.read.toString().includes(value) ||
-            book.likes.toString().includes(value)
+            Object.values(book).some(val => val.toString().toLowerCase().includes(value))
         );
         setData(filtered);
     };
