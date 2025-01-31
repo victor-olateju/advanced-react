@@ -52,7 +52,7 @@ export function TestForm() {
           ></textarea>
         </div>
 
-        <button type="submit" disabled={!name}>
+        <button type="submit" disabled={!name} onClick={submitHandler}>
           Submit
         </button>
       </fieldset>
