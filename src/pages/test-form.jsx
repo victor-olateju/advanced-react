@@ -12,7 +12,7 @@ export function TestForm() {
         alert("Please leave a review")
         return
     }
-    console.log("Form submitted")
+
     setName("")
     setComment("")
     setScore(0)
