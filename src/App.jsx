@@ -20,6 +20,8 @@ function App() {
       <LemonApp />
       <TestForm />
       <ImpureFunction />
+
+      <button onClick={() => {throw new Error("This is your first error!");}}>Break the world</button>;
       {/* <UserProfiles /> */}
     </div>
   );
