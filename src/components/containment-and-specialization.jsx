@@ -1,11 +1,6 @@
 import cls from "./style.module.scss"
 
 const Button = ({children, backgroundColor}) => {
-    const _type = {
-        primary: {
-
-        }
-    }
     return <button className={backgroundColor}>{children}</button>
 }
 
@@ -15,7 +10,7 @@ const Alert = ({children}) => <div className="">
 </div>
 
 //Specialization
-const DeleteButton = ({}) => <Button className="danger">
+const DeleteButton = () => <Button className="danger">
     Delete
 </Button>
 
