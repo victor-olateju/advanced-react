@@ -1,6 +1,7 @@
 import './App.css';
 import { AutoComplete } from './components/autocomplete';
 import { ContSpec } from './components/containment-and-specialization';
+import HOCComponent  from './exercise/higher-order-component';
 import LiveOrders from './exercise/manipulating-children-dynamically';
 import QuickLoad from './exercise/quick-load';
 // import { UserProfiles } from './exercise/user';
@@ -16,6 +17,8 @@ function App() {
     <div className="App">
       {/* <Home /> */}
       {/* <Todo /> */}
+      <HOCComponent />
+
       <LiveOrders />
       {/* <QuickLoad /> */}
       <AutoComplete />
